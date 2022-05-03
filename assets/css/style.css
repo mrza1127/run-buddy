@@ -11,6 +11,7 @@ body {
 }
 /*apply styles to <header> */
 header {
+    /* applies 20px to top and bottom, then 35px to the left and right! */
     padding: 20px 35px;
     background-color: #39a6b2;
 }
